@@ -1,4 +1,6 @@
-0. 请用中文回答，这是一个专门为Android资深高级开发工程师准备的面试demo，请先创建md文件，第一步由浅入深讲解技术原理，第二步再结合最佳实践代码加上详细注释
+0. 请用中文回答，这是一个专门为Android资深高级开发工程师准备的面试demo，请先创建md文件，第一步由浅入深讲解技术原理，
+   这个文章我要写入公众号文章对外发布，可以自己不停回顾也可以帮助他人，请写成易懂代表高级资深程序员水平的文章，
+   第二步再结合最佳实践代码加上详细注释
 1. First think through the problem, read the codebase for relevant files, and write a plan to tasks/todo.md.
 2. The plan should have a list of todo items that you can check off as you complete them
 3. Before you begin working, check in with me and I will verify the plan.
